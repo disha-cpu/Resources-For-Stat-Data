@@ -23,3 +23,5 @@
 11. [Automating Data Drift Thresholding in Machine Learning Systems](https://towardsdatascience.com/automating-data-drift-thresholding-in-machine-learning-systems-524e6259f59f)
 
 12. [Dynamic Thresholding](https://sol.sbc.org.br/journals/index.php/jidm/article/download/1456/1124)
+
+13. [Dynamic Thresholding Estimation](https://www.sinch.com/blog/dynamic-threshold-estimation-for-anomaly-detection/) 
