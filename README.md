@@ -25,3 +25,7 @@
 12. [Dynamic Thresholding](https://sol.sbc.org.br/journals/index.php/jidm/article/download/1456/1124)
 
 13. [Dynamic Thresholding Estimation](https://www.sinch.com/blog/dynamic-threshold-estimation-for-anomaly-detection/) 
+
+14. [unsupervised anomaly detection algos](https://www.youtube.com/watch?v=12Xq9OLdQwQ&t=544s)
+
+15. [LOF](https://www.youtube.com/watch?v=7L23sCOZjns)
