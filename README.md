@@ -29,3 +29,5 @@
 14. [unsupervised anomaly detection algos](https://www.youtube.com/watch?v=12Xq9OLdQwQ&t=544s)
 
 15. [LOF](https://www.youtube.com/watch?v=7L23sCOZjns)
+
+16.[anomaly detection algos](https://www.youtube.com/watch?v=_PW8nGyaPP4) 
