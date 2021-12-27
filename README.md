@@ -32,4 +32,6 @@
 
 16.[anomaly detection algos](https://www.youtube.com/watch?v=_PW8nGyaPP4) 
 
-17. [DBCLASD] (https://svv-research-data.s3.ap-south-1.amazonaws.com/160069-1.%20Study%20of%20Density%20Based%20Algorithms.pdf)
+17. [DBCLASD - 1](https://ieeexplore.ieee.org/document/655795)
+
+18. [DBCLASD -2](https://ieeexplore.ieee.org/document/655795)
